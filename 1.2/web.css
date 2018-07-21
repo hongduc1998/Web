@@ -1,0 +1,48 @@
+body{
+    width: 1366px;
+    height: 1843px;
+    margin: 0 auto;
+    font-family: Tahoma;
+}
+
+.menutop{
+    width: 1366px;
+    height: 540px;
+    background: #1c1c2f;
+}
+
+.menutop img{
+    margin-left: 160px;
+    margin-top: 25px;
+}
+
+.menutop a{
+    float: left;
+}
+
+.menutop-text{
+    margin-left: 500px;
+}
+
+.menutop-text li{
+    list-style: none;
+}
+
+.menutop-text a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-top: 45px;
+    margin-right: 40px;
+}
+
+.ipad a{
+    border-radius: 4px;
+    display: inline-block;
+    line-height: 40px;
+    width: 100px;
+    height: 40px;
+    background: #d2d2d5;
+    color: #000000;
+    text-align: center;
+    margin-top: 35px;
+}
