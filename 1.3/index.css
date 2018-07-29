@@ -1,0 +1,18 @@
+body{
+    padding: 70px 0px;
+    font-family: "Comic Sans MS";
+    background: khaki;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.row img{
+    width: 100%;
+}
+
+.item img{
+    width: 100%;
+}
+

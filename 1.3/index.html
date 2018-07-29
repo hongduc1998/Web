@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <title>DocSach24h</title>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">DocSach24h</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <form class="navbar-form navbar-right">
+                    <div class="form-group">
+                        <input type="text" placeholder="Email" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" placeholder="Password" class="form-control">
+                    </div>
+                    <button type="submit" class="btn btn-success">Sign in</button>
+                    <button type="submit" class="btn btn-success">Sign up</button>
+                </form>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Sách!</h1>
+            <p>Người biết đọc sách không phải là người đọc được bao nhiêu cuốn sách mà là người biết đọc sách hiệu quả và áp dụng được những gì học được.</p>
+            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="images/h1-q1.jpg" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="images/h1-q2.jpg" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="images/h1-q3.jpg" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="images/h1-q4.jpg" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="images/h2-q3.jpg" alt="...">
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <br>
+        <br>
+        <div class="row">
+            <div class="col-md-4 col-md-push-8">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Top 5 sách được đọc nhiều nhất</h3>
+                    </div>
+                    <div class="panel-body">
+                        <ul class="list-group">
+                            <li class="list-group-item">
+                                <span class="badge">114</span>
+                                <a href="#">Lời thì thầm của quỷ</a>
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">84</span>
+                                <a href="#">Cối xay gió</a>
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">80</span>
+                                <a href="#">Có những giấc mơ</a>
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">67</span>
+                                <a href="#">Sống mãi trong ta</a>
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">60</span>
+                                <a href="#">Cỏ bốn lá</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-md-pull-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Tin tức</h3>
+                    </div>
+                    <div class="panel-body">
+                        <ul>
+                            <li><a href="#">Những cuốn sách mới</a></li>
+                            <li><a href="#">Cuộc thi đọc sách</a></li>
+                            <li><a href="#">Đọc sách sao cho hiệu quả ?</a></li>
+                            <li><a href="#">Ra mắt bộ sách giúp phòng ngừa ung thư</a></li>
+                            <li><a href="#">'Bốn mùa trên xứ phù tang' - sách tái hiện nét quyến rũ của Nhật Bản</a></li>
+                            <li><a href="#">Chặng đường lập quốc của Thành Cát Tư Hãn qua sách</a></li>
+                            <li><a href="#">Cô gái Mỹ viết về Nhật Bản qua 'Tokyo du hí'</a></li>
+                            <li><a href="#">Tiểu thuyết về tình yêu thời chiến thắng giải Golden Man Booker</a></li>
+                            <li><a href="#">'Ngày xưa của con' khắc họa tâm hồn ngây thơ trẻ nhỏ</a></li>
+                            <li><a href="#">Ba cuốn sách bàn về cái chết</a></li>
+                            <li><a href="#">'Những nét đan thanh' - sách về đồ sứ men lam ký kiểu</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Example row of columns -->
+        <div class="row">
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h1-q1.jpg">
+                </a>
+                <h3><a href="#">Mùa đông xám</a></h3>Mike Mullin
+                <br>
+                <a href="#">70.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h1-q2.jpg">
+                </a>
+                <h3><a href="#">Khi có chí, hướng nào đi cũng được</a></h3>Ros Taylor
+                <br>
+                <a href="#">56.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h1-q3.jpg">
+                </a>
+                <h3><a href="#">Ngàn năm một tiếng</a></h3>Dư Thu Vũ
+                <br>
+                <a href="#">60.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h1-q4.jpg">
+                </a>
+                <h3><a href="#">Nấu ăn ngon lành</a></h3>Hồ Đắc Thiếu Anh
+                <br>
+                <a href="#">45.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h2-q1.jpg">
+                </a>
+                <h3><a href="#">Bạn đỡ ngu rồi đấy</a></h3>David Mcraney
+                <br>
+                <a href="#">85.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h2-q2.jpg">
+                </a>
+                <h3><a href="#">Kia khoảng trời sao, đây khoảng biển</a></h3>Đồng Hoa
+                <br>
+                <a href="#">58.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h2-q3.jpg">
+                </a>
+                <h3><a href="#">Hộ chiếu xanh, hành trình ra biển lớn</a></h3>Nhiều tác giả
+                <br>
+                <a href="#">55.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h2-q4.jpg">
+                </a>
+                <h3><a href="#">Du học Mỹ tuổi 16</a></h3>Vi Trịnh
+                <br>
+                <a href="#">53.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h3-q1.jpg">
+                </a>
+                <h3><a href="#">Ứng dụng bản đồ tư duy trong học tập</a></h3>NXB Hồng Đức
+                <br>
+                <a href="#">45.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h3-q2.jpg">
+                </a>
+                <h3><a href="#">Chúng con không sao đâu</a></h3>Bs Cheonseox Suh
+                <br>
+                <a href="#">58.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h3-q3.jpg">
+                </a>
+                <h3><a href="#">Em bé hạnh phúc nhất khu phố</a></h3>Bs Harvey Krap
+                <br>
+                <a href="#">70.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <a href="#">
+                    <img src="images/h3-q4.jpg">
+                </a>
+                <h3><a href="#">Khéo ăn nói sẽ có được thiên hạ</a></h3>Trác Nhã
+                <br>
+                <a href="#">58.000đ</a>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div>
+        </div>
+
+        <hr>
+
+        <footer>
+            <p>&copy; 2018 HongDuc, Inc.</p>
+        </footer>
+    </div> <!-- /container -->
+</body>
+</html>
