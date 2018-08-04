@@ -1,0 +1,35 @@
+body {
+    padding-top: 20px;
+    background: lemonchiffon;
+}
+
+.container {
+    font-family: "Comic Sans MS";
+}
+
+.text-muted {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: dodgerblue;
+}
+
+.row {
+    margin-top: 20%;
+}
+
+.panel-heading h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    border-top: 1px solid #eee;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 16px;
+}

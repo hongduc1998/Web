@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600');
+
 body {
     padding-top: 20px;
     background: lemonchiffon;
- }
+}
 
 .footer {
     padding-top: 40px;
@@ -86,8 +88,9 @@ body {
     color: dodgerblue;
 }
 
-.panel-body p{
-    font-size: 15px;
+.page-header{
+    font-size: 50px;
+    text-align: center;
 }
 
 .container {
@@ -95,7 +98,112 @@ body {
     padding-top: 20px;
 }
 
-.footer p{
-    background: burlywood;
-    padding: 10px 10px 10px;
+.timeline{
+    position: relative;
+    margin: 50px auto;
+    padding: 40px auto;
+    font-family: 'Montserrat', sans-serif;
 }
+
+.timeline:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background: #c5c5c5;
+}
+
+.timeline ul{
+    margin: 0;
+    padding: 0;
+}
+
+.timeline ul li{
+    position: relative;
+    width: 50%;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+
+.timeline ul li:nth-child(odd){
+    float: left;
+    text-align: right;
+    clear: both;
+}
+
+.timeline ul li:nth-child(even){
+    float: right;
+    text-align: left;
+    clear: both;
+}
+
+.content{
+    padding-bottom: 20px;
+}
+
+
+
+.timeline ul li:nth-child(odd):before{
+    content: '';
+    position: absolute;
+    top: 24px;
+    right: -6px;
+    width: 10px;
+    height: 10px;
+    background: rgba(233,33,99,1);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(233,33,9,0.2);
+    right: -6px;
+}
+
+.timeline ul li:nth-child(even):before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: rgba(233,33,99,1);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(233,33,9,0.2);
+    left: -4px;
+    top: 24px;
+}
+
+.timeline ul li h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: rgba(233,33,9,1);
+}
+
+.timeline ul li:nth-child(odd) .time{
+    position: absolute;
+    top: 12px;
+    margin: 0;
+    padding: 8px 16px;
+    right: -180px;
+    color: #ffffff;
+    background: rgba(233,33,9,1);
+    border-radius: 18px;
+    box-shadow: 0 0 0 3px rgba(233,33,9,0.2);
+}
+
+.timeline ul li:nth-child(even) .time{
+    position: absolute;
+    top: 12px;
+    margin: 0;
+    padding: 8px 16px;
+    left: -180px;
+    color: #ffffff;
+    background: rgba(233,33,9,1);
+    border-radius: 18px;
+    box-shadow: 0 0 0 3px rgba(233,33,9,0.2);
+}
+
+.timeline ul li h4{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+

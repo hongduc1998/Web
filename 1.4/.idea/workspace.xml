@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e7599b-a511-4236-83bb-8a6e6894ec30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gioithieu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gioithieu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sourceSVG.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sourceSVG.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formlogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formlogin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.2/web.css" beforeDir="false" afterPath="$PROJECT_DIR$/../1.2/web.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gioithieu.css" beforeDir="false" afterPath="$PROJECT_DIR$/gioithieu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gioithieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/gioithieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,52 +30,83 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="18" />
-          <entry key="html" value="16" />
+          <entry key="css" value="21" />
+          <entry key="html" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="18" />
-          <entry key="HTML" value="16" />
+          <entry key="CSS" value="21" />
+          <entry key="HTML" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="450" />
-          <entry key="html" value="2955" />
+          <entry key="css" value="1319" />
+          <entry key="html" value="3551" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="450" />
-          <entry key="HTML" value="2955" />
+          <entry key="CSS" value="1319" />
+          <entry key="HTML" value="3551" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formlogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="1190">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.css">
+        <entry file="file://$PROJECT_DIR$/formlogin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="561">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gioithieu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="115" column="60" selection-start-line="115" selection-start-column="60" selection-end-line="115" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gioithieu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trash.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="n#section#0;n#!!top" />
+                <element signature="n#div#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,14 +116,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>text</find>
+      <find>footer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,12 +146,15 @@
         <option value="$PROJECT_DIR$/vdimgmap.css" />
         <option value="$PROJECT_DIR$/vdimgmap.html" />
         <option value="$PROJECT_DIR$/svg.html" />
-        <option value="$PROJECT_DIR$/gioithieu.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/gioithieu.css" />
         <option value="$PROJECT_DIR$/html.css" />
-        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/login.css" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/Trash.html" />
+        <option value="$PROJECT_DIR$/gioithieu.css" />
+        <option value="$PROJECT_DIR$/gioithieu.html" />
+        <option value="$PROJECT_DIR$/formlogin.html" />
+        <option value="$PROJECT_DIR$/formlogin.css" />
       </list>
     </option>
   </component>
@@ -146,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,15 +189,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Learning/sourceHTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,14 +227,17 @@
       <workItem from="1533009285400" duration="1258000" />
       <workItem from="1533042826136" duration="9114000" />
       <workItem from="1533094743595" duration="36000" />
+      <workItem from="1533272010119" duration="9463000" />
+      <workItem from="1533348317510" duration="454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24700000" />
+    <option name="totallyTimeSpent" value="34617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18282403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -250,24 +286,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vdimgmap.css" />
-    <entry file="file://$PROJECT_DIR$/vdimgmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sourceSVG.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -278,20 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gioithieu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gioithieu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -299,24 +307,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/login.css" />
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/svg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vdimgmap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="60" />
+        <state relative-caret-position="668">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.css">
+    <entry file="file://$PROJECT_DIR$/formlogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        <state relative-caret-position="1190">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
+    <entry file="file://$PROJECT_DIR$/Trash.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="102">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="n#section#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formlogin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gioithieu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gioithieu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="115" column="60" selection-start-line="115" selection-start-column="60" selection-end-line="115" selection-end-column="60" />
         </state>
       </provider>
     </entry>
