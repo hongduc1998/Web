@@ -10,6 +10,14 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="formlogin.css">
     <title>Login</title>
+
+    <script>
+        function opengioithieu(){
+            alert('Log in success');
+            //window.location.href = 'http://localhost:63342/1.4/gioithieu.html';
+            window.open('gioithieu.html');
+        }
+    </script>
 </head>
 <body>
 <div class="container">
@@ -50,7 +58,7 @@
                             <div class="col-sm-offset-3 col-sm-4">
                                 <p>
                                     <button type="submit" class="btn btn-default"
-                                            onclick="window.alert('Login Success')&window.open('gioithieu.html')">Sign
+                                            onclick="opengioithieu();">Sign
                                         in
                                     </button>
                                     <button type="submit" class="btn btn-default">Sign up</button>
