@@ -98,7 +98,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gthieu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
+            <state relative-caret-position="283">
               <caret line="310" column="22" selection-start-line="310" selection-start-column="22" selection-end-line="310" selection-end-column="22" />
             </state>
           </provider>
@@ -229,17 +229,17 @@
       <workItem from="1533094743595" duration="36000" />
       <workItem from="1533272010119" duration="9463000" />
       <workItem from="1533348317510" duration="7092000" />
-      <workItem from="1533696127984" duration="21873000" />
+      <workItem from="1533696127984" duration="22569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63128000" />
+    <option name="totallyTimeSpent" value="63824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="52" width="1750" height="968" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268692" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20268692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -251,7 +251,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14610778" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.42994013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -420,7 +420,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gthieu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
+        <state relative-caret-position="283">
           <caret line="310" column="22" selection-start-line="310" selection-start-column="22" selection-end-line="310" selection-end-column="22" />
         </state>
       </provider>
