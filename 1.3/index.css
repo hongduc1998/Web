@@ -1,11 +1,24 @@
 body{
     padding: 70px 0px;
     font-family: "Comic Sans MS";
-    background: khaki;
+    background-size: contain;
+}
+
+.container{
+    background: url("images/book2.jpg");
+    background-size: contain;
 }
 
 .container a{
     text-decoration: none;
+}
+
+.content h3{
+    color: #ffffff;
+}
+
+.content a{
+    color: #ffffff;
 }
 
 .row img{
